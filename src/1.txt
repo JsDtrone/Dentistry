@@ -1,0 +1,2 @@
+lg padding decorate
+p-4 lg:p-8
