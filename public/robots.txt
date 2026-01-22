@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /vinir
+Allow: /childish
+Allow: /cleaning
+Allow: /orthopedics
+Allow: /therapy
+Allow: /orthodontics
+Allow: /implants
+Allow: /hirurgia
+Allow: /cosmetology
+Allow: /citilab
+Allow: /prices
+
+Clean-param: etext
+
+Disallow: /mail.php
+
+
+
+Sitemap: https://luvidenta.ru/sitemap.xml
